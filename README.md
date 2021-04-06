@@ -5,7 +5,7 @@
 
 [作业1:词名频率饼状图链接](https://liangyijia2002.github.io/wordfrequency.html)
 
-[作业1:词名频率柱形图链接]()
+[作业1:词名频率柱形图链接](https://liangyijia2002.github.io/bar.html)
 
 [作业1:词名频率词云图链接](https://liangyijia2002.github.io/wordcloud.html)
 ## 2.作业2
